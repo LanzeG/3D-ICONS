@@ -4,6 +4,8 @@ AUTHOR: Vijay Verma (https://vijayverma.co)
 
 PURPOSE OF THIS REPOSITORY: TO EASILY CLONE AND GET THE PNGs
 
+ICON DESIGNS: CLAY, GRADIENT, COLOR, PREMIUM.
+
 VERSION: 1.0.0
 resolution: `2400 x 2400 px`
 file_type: ".blender", ".png", ".figma"
